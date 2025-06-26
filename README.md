@@ -27,8 +27,3 @@ It supports simple arithmetic operations and has a responsive layout.
 
 ---
 
-## 🌐 Live Demo
-
-[Click to view the calculator](https://Doha-yasser.github.io/Simple-Calculator-site/)
-
-> Replace `yourusername` with your GitHub username after enabling GitHub Pages.
