@@ -1,37 +1,34 @@
-# Simple-Calculator-site
-This is a basic web-based calculator built using HTML, CSS, and JavaScript. It supports simple arithmetic operations and has a responsive layout.
+# 🧮 Simple Calculator Site
+
+This is a basic web-based calculator built using **HTML**, **CSS**, and **JavaScript**.  
+It supports simple arithmetic operations and has a responsive layout.
+
+---
+
+## 📁 Project Structure
 
 
-📦 simple-calculator/
-├── index.html         # HTML structure
-├── style.css          # Styling and layout
-└── script.js          # Calculator logic (functionality)
+---
 
+## ✨ Features
 
+- Basic arithmetic operations: `+`, `−`, `×`, `÷`
+- Clear (`C`) and Backspace (`⌫`) buttons
+- Responsive layout for all devices
+- Simple and clean UI design
 
-🎨 Features
-Basic arithmetic operations: +, -, *, /
+---
 
-Bracket support: ( and )
+## 🚀 How to Use
 
-Decimal input: .
+1. Clone or download the repository.
+2. Open `index.html` in your browser.
+3. Start calculating!
 
-Clear (C) and delete (del) functionality
+---
 
-A stylized result display area
+## 🌐 Live Demo
 
-Font from Google Fonts ("Pacifico")
+[Click to view the calculator](https://yourusername.github.io/Simple-Calculator-site/)
 
-Responsive layout with a clean button grid
-
-
-
-🛠️ Technologies Used
-HTML5 for structure
-
-CSS3 for design and layout
-
-Vanilla JavaScript for functionality and interactivity
-
-Google Fonts for custom font styling
-
+> Replace `yourusername` with your GitHub username after enabling GitHub Pages.
