@@ -1,0 +1,54 @@
+:root{
+    --Teal_blue : #1F5E7A;
+    --Light_blue : #A2BBD0;
+    --Dark_blue : #0F2C44 ;
+    --Charcoal_blue : #1C3748;
+    --black : #000000 ;
+}
+
+body{
+    background-color: var(--Light_blue);
+}
+
+#board{
+    /* background-color: var(--black); */
+    display: grid;
+    grid-template-columns: repeat(4, 80px);
+    /* padding: 3px; */
+    position: relative;
+    font-weight: 200;
+    /* margin-top: 25%; */
+    padding-left: 50%;
+    /* padding-top: 5%; */
+
+}
+
+#result {
+    grid-column: span 4;
+    height: 50px;
+    color: var(--black);
+    margin-bottom: 2px;
+    padding: 10px;
+    font-size: 30px;
+
+}
+
+#board .btn{
+    background-color: var(--black);
+    color: white;
+    font-size: 30px;
+    padding: 2px;
+    margin: 2px;
+
+}
+
+
+#head {
+    font-family: 'Pacifico', cursive;
+    font-size: 100px;
+    color: #000000;
+}
+
+#board #space{
+    font-size: 20px;
+}
